@@ -3,191 +3,155 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False
+# set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True 
+# set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Philippe Hart
+    tagline: Administrateur Systèmes - Réseaux
+    avatar: profile.png  
+#place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: philippe.hart@outlook.com
+    phone: (514) 834-8394
+      # citizenship:
+    website: blog.nonbinarygeek.ca
+    linkedin: philippe-hart
+      # xing: alandoe
+    github: nonBinaryGeek
+      # telegram: # add your nickname without '@' sign
+      # gitlab:
+      # bitbucket:
+      # twitter: '@webjeda'
+      # stack-overflow: # Number/Username, e.g. 123456/alandoe
+      # codewars:
+      # goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: https://nextcloud.catpalace.ca/s/68qy2JJ7e9Nadxg/download/mon_cv.pdf
 
-    languages:
-      - idiom: English
-        level: Native
+    languagues:
+      - idiom: Français
+        level: Maternelle
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: Anglais
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Plein Air - Randonnée
         link:
 
-      - item: Snowboarding
+      - item: Music - Arts - Expos
         link:
 
-      - item: Cooking
+      - item: Cuisines
         link:
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Bien que nouveau au sein du vaste domaine que représente les technologies
+      de l'information, j'ai rapidement su gagner en expériences. Étant avant
+      tout une personne pragmatique et cartésienne qui se démarque par son sens
+      de l'initiative, je recherche différentes opportunités me permettant 
+      d'atteindre mes objectifs d’avancement de carrière.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: AEC Gestion de Réseaux et Sécurité des Serveurs
+      university: Collège de Maisonneuve
+      time: 2021 - 2022
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: CCNA1v7 - CCNA2v7 - CCNA3v7
+      university: Collège de Maisonneuve
+      time: 2021 - 2022
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Apprentissages Autodidactes &amp; Scolaires
+      time: 2019 - Présent
+      company:
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        Depuis plus de deux ans, j'ai su approfondire mes connaissances et gagner
+        en expertise relativement au TI. Cette expérience, développée de façon 
+        intensive, se traduit avant tout par mon désir d'apprendre et ma fascination
+        de l'informatique. La création de ma propre infrastructure réseau ainsi que
+        le déploiement de services basés sur les technologies de virtualisation
+        m'ont permis de gagner rapidement un savoir théorique et pratique.
+          - Technologies de Virtualisation tel que VMware ESXi et Hyper-V
+          - Maîtrise impécable de l'interface en lignes de commandes (CLI)
+          - Habileté de travailler sous de multiples distributions Linux
+          - Administration de serveurs Windows et déploiement de l'Active Directory (AD)
+          - Configurations réseaux et de services tels que DNS, DHCP, OSPF, VLAN, etc.
+          - Travail en amont en priorisant la sécurité selon la triade CID/CIA
+          - Implentation de stratégies de sauvegardes et de récupération
+          - Connaisances théoriques et pratiques du modèle OSI
+          - Gestion de bases de données tels que MSSQL, SQL, MySQL/MariaDB, etc.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        Déploiement de services en tout genre :
+          - NGINX web, NGINX reverse proxy, HAproxy, Apache
+          - RDP, SSH, VNC, VPN
+          - NextCloud, pfSense Firewall
+          - DNS Bind9, DHCP, ADDS, SSL-TLS, SSO, Exchange
+          - Docker, Kubernetes, Git, SAML, PAM
 
 publications:
-    title: Publications
+    title: Projets
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Voici une liste comprenant certains de mes projets personnels ou professionnels.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Nextcloud"
+        link: "https://nextcloud.catpalace.ca/"
+        authors: "Depuis les Codes Sources de NextCloud"
+        conference: "Mon serveur Cloud personnalisé"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Jekyll - ReadTheDocs"
+        link: "https://docs.nonbinarygeek.ca"
+        authors: "À partir de Jekyll, Read The Docs, LIQUID et GitHub"
+        conference: "Mon « template » afin de documenter des projets"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Compétences &amp; Éfficacité
 
     toolset:
-      - name: Python & Django
+      - name: Shell & Bash
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: PowerShell
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: IOS Cisco
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Communications
+        level: 95%
+
+      - name: Documentations
+        level: 95%
+
+      - name: Admin Systèmes
+        level: 90%
+
+      - name: Admin Réseaux
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Triade CIA - CID
+        level: 83%
+
+      - name: Web - SSL TLS HTTPS
+        level: 83%
+
+      - name: GitHub
+        level: 66%
+
+      - name: Ruby On Rails
+        level: 40%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    <div class="copyright text-center text-gray" role="contentinfo"> <i class="fa fa-copyright"></i> <span class="time">2022,</span> <a class="text-gray" href="https://github.com/nonBinaryGeek" rel="noreferrer" target="_blank">nonBinaryGeek</a> 
+      Revision <a class="text-gray" href="https://github.com/nonBinaryGeek/nonbinarygeek.github.io/commit/004e9807f50f9aff2f4a09e1495f76a7e6fc3d51" title="004e9807f50f9aff2f4a09e1495f76a7e6fc3d51" rel="noreferrer" target="_blank">004e980</a> <br> <div class="generator">
+      Built with <a href="https://pages.github.com" rel="noreferrer" target="_blank" title="github-pages v223">GitHub Pages</a>
+      using a <a href="https://github.com/nonBinaryGeek/jekyll-modele" rel="noreferrer" target="_blank" title="nonBinaryGeek/jekyll-modele v1.0.3">theme</a>
+      provided by <a href="https://github.com/nonBinaryGeek" rel="noreferrer" target="_blank">nonBinaryGeek</a>. 
+    </div> </div>
+
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

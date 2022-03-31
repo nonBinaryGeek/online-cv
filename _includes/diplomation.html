@@ -1,0 +1,18 @@
+{% assign diplomation = site.data.data.sidebar.diplomation %}
+{% if diplomation %}
+<div class="diplomation-container container-block">
+
+  <h2 class="container-block-title"><i class="fas fa-user-graduate"></i>
+    Diplomation
+  </h2>
+
+    {% for graduation in diplomation %}
+    <div class="diplome">
+      <div class="type">{{ graduation.type }}</div>
+      <h4 class="degree">{{ graduation.degree }}</h4>
+      <h5 class="meta">{{ graduation.university }}</h5>
+      <div class="time">{{ graduation.time }}</div>
+    </div><!--//diplome-->
+    {% endfor %}
+</div><!--//diplomation-container-->
+{% endif %}

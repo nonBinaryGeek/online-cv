@@ -5,12 +5,12 @@
 sidebar:
     about: False
 # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True 
+    education: False 
 # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Philippe Hart
-    tagline: Administrateur Systèmes - Réseaux
+    name: PHILIPPE HART
+    tagline: Administrateur Systèmes Administrateur Réseaux
     avatar: profile.png  
 #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -37,6 +37,17 @@ sidebar:
 
       - idiom: Anglais
         level: Professional
+
+    diplomation:
+      - type: AEC
+        degree: Gestion de Réseaux et Sécurité des Serveurs
+        university: Collège de Maisonneuve
+        time: 2021 - 2022
+
+      - type: DEC
+        degree: Techniques de Travail Social
+        university: Cégep du Vieux Montréal
+        time: 2014 - 2019
 
     interests:
       - item: Plein Air - Randonnée
@@ -147,10 +158,10 @@ skills:
 
 footer: >
     <div class="copyright text-center text-gray" role="contentinfo"> <i class="fa fa-copyright"></i> <span class="time">2022,</span> <a class="text-gray" href="https://github.com/nonBinaryGeek" rel="noreferrer" target="_blank">nonBinaryGeek</a> 
-      Revision <a class="text-gray" href="https://github.com/nonBinaryGeek/nonbinarygeek.github.io/commit/004e9807f50f9aff2f4a09e1495f76a7e6fc3d51" title="004e9807f50f9aff2f4a09e1495f76a7e6fc3d51" rel="noreferrer" target="_blank">004e980</a> <br> <div class="generator">
-      Built with <a href="https://pages.github.com" rel="noreferrer" target="_blank" title="github-pages v223">GitHub Pages</a>
-      using a <a href="https://github.com/nonBinaryGeek/jekyll-modele" rel="noreferrer" target="_blank" title="nonBinaryGeek/jekyll-modele v1.0.3">theme</a>
-      provided by <a href="https://github.com/nonBinaryGeek" rel="noreferrer" target="_blank">nonBinaryGeek</a>. 
+      Revision <a class="text-gray" href="https://github.com/nonBinaryGeek/online-cv/commit/b692f2d977650639c904c23b9dd1e376ef415170" title="b692f2d977650639c904c23b9dd1e376ef415170" rel="noreferrer" target="_blank">b692f2d</a> <br> <div class="generator">
+      Built with <a href="https://jekyllrb.com" rel="noreferrer" target="_blank" title="Jekyll Theme">Jekyll</a>
+      using a <a href="https://github.com/nonBinaryGeek/online-cv" rel="noreferrer" target="_blank" title="nonBinaryGeek/online-cv v1.0.0">theme</a>
+      based on <a href="https://github.com/sharu725/online-cv" rel="noreferrer" target="_blank">sharu725</a>. 
     </div> </div>
 
 #footer: >

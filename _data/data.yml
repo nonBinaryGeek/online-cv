@@ -3,25 +3,28 @@
 #
 
 sidebar:
+
+    # set to False or comment line if you want to remove the "how to use?" in the sidebar
     about: False
-# set to False or comment line if you want to remove the "how to use?" in the sidebar
+
+    # set to False if you want education in main section instead of in sidebar
     education: False 
-# set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: PHILIPPE HART
     tagline: Administrateur Systèmes Administrateur Réseaux
-    avatar: profile.png  
-#place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Profile Picture - Place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png
 
     # Sidebar links
     email: philippe.hart@outlook.com
     phone: (514) 834-8394
-      # citizenship:
     website: blog.nonbinarygeek.ca
     linkedin: philippe-hart
-      # xing: alandoe
     github: nonBinaryGeek
+      # citizenship:
+      # xing: alandoe
       # telegram: # add your nickname without '@' sign
       # gitlab:
       # bitbucket:
@@ -33,14 +36,14 @@ sidebar:
 
     languagues:
       - idiom: Français
-        level: Maternelle
+        level: First
 
       - idiom: Anglais
         level: Professional
 
     diplomation:
       - type: AEC
-        degree: Gestion de Réseaux et Sécurité des Serveurs
+        degree: Gestion de Réseaux & Sécurité des Serveurs
         university: Collège de Maisonneuve
         time: 2021 - 2022
 

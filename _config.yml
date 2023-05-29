@@ -8,7 +8,7 @@ url: 'https://about.nonbinarygeek.ca'
 # disabling since we are using a custom domain
 #baseurl: '/online-cv' 
 
-description: Mon C.V. disponible en ligne, simplement !
+description: Online Curriculum Vitae
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: ceramic
 # blue turquoise green berry orange ceramic

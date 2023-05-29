@@ -12,7 +12,7 @@ sidebar:
 
     # Profile information
     name: PHILIPPE HART
-    tagline: Administrateur Systèmes Administrateur Réseaux
+    tagline: Administrateur Systèmes & Réseaux
 
     # Profile Picture - Place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     avatar: profile.png
@@ -69,16 +69,17 @@ career-profile:
       de l'information, j'ai rapidement su gagner en expériences. Étant avant
       tout une personne pragmatique et cartésienne qui se démarque par son sens
       de l'initiative, je recherche différentes opportunités me permettant 
-      d'atteindre mes objectifs d’avancement de carrière.
+      d'atteindre mes objectifs professionnels.
 education:
-    - degree: AEC Gestion de Réseaux et Sécurité des Serveurs
+    - degree: Gestion de Réseaux et Sécurité des Serveurs
       university: Collège de Maisonneuve
       time: 2021 - 2022
       details: |
-    - degree: CCNA1v7 - CCNA2v7 - CCNA3v7
+    - degree: CISCO CCNA1
       university: Collège de Maisonneuve
       time: 2021 - 2022
       details: |
+        CCNA1
 experiences:
     - role: Apprentissages Autodidactes &amp; Scolaires
       time: 2019 - Présent

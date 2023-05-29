@@ -18,6 +18,11 @@ h6 {
   font-weight: 700;
 }
 
+h3:hover {
+  test-decoration:underline;
+  color:#017698
+}
+
 a {
   color: darken($theme-color, 15%);
   &:hover {

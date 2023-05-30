@@ -276,6 +276,10 @@ p {
     }
     .item {
       margin-bottom: 15px;
+      li:hover {
+        text-decoration:underline;
+        color:#4287f5;
+      }
     }
   }
 }

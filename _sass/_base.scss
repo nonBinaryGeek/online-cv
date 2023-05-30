@@ -18,16 +18,11 @@ h6 {
   font-weight: 700;
 }
 
-h3.degree:hover {
-  text-decoration:underline;
-  color:#4287f5;
-}
-
 a {
   color: darken($theme-color, 15%);
   &:hover {
     text-decoration: underline;
-    color: #4287f5;
+    color: darken($theme-color, 30%);
   }
   &:focus {
     text-decoration: none;
@@ -217,6 +212,10 @@ p {
   .educations-section {
     .item {
       margin-bottom: 30px;
+      .degree:hover {
+        text-decoration:underline;
+        color:#4287f5;
+      }
     }
   }
   .upper-row {

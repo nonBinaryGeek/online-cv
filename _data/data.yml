@@ -71,25 +71,30 @@ career-profile:
       de l'initiative, je recherche différentes opportunités me permettant 
       d'atteindre mes objectifs professionnels.
 education:
-    - degree: Gestion de Réseaux et Sécurité des Systèmes
+    - degree: "Microsoft 365 Certified: Fundamentals"
+      link: "https://www.credly.com/badges/7584bed9-d8ea-44bd-94f7-460b49a58dc3/public_url"
+      university: Microsoft
+      time: "2023"
+      details: |
+    - degree: "Gestion de Réseaux et Sécurité des Systèmes"
       link: "https://fc.cmaisonneuve.qc.ca/formations/gestion-de-reseaux-et-securite-des-systemes/#grille-de-cours-3-tab"
       university: Collège de Maisonneuve
-      time: 2021 - 2022
+      time: "2022"
       details: |
     - degree: "CCNA: Enterprise Networking, Security, and Automation"
       link: "https://www.credly.com/badges/30133da4-a131-4b5f-8466-0e0b5b5bed38/public_url"
       university: Cisco Networking Academy
-      time: 2021 - 2022
+      time: "2022"
       details: |
     - degree: "CCNA: Switching, Routing, and Wireless Essentials"
       link: "https://www.credly.com/badges/5a9e71c4-f03b-4131-980f-8b05c88fd862/public_url"
       university: Cisco Networking Academy
-      time: 2021 - 2022
+      time: "2021"
       details: |
     - degree: "CCNA: Introduction to Networks"
       link: "https://www.credly.com/badges/6b3f2d24-5da7-4446-9239-db44ee4eb17e/public_url"
       university: Cisco Networking Academy
-      time: 2021 - 2022
+      time: "2021"
       details: |
 experiences:
     - role: Apprentissages Autodidactes &amp; Scolaires

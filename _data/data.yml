@@ -71,7 +71,8 @@ career-profile:
       de l'initiative, je recherche différentes opportunités me permettant 
       d'atteindre mes objectifs professionnels.
 education:
-    - degree: Gestion de Réseaux et Sécurité des Serveurs
+    - degree: Gestion de Réseaux et Sécurité des Systèmes
+      link: "https://fc.cmaisonneuve.qc.ca/formations/gestion-de-reseaux-et-securite-des-systemes/#grille-de-cours-3-tab"
       university: Collège de Maisonneuve
       time: 2021 - 2022
       details: |
